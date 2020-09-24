@@ -1,0 +1,5 @@
+F:\_Source\_c#\Hotkeys\HotkeyLib\bin\Debug\HotkeyLib.dll
+F:\_Source\_c#\Hotkeys\HotkeyLib\bin\Debug\HotkeyLib.pdb
+F:\_Source\_c#\Hotkeys\HotkeyLib\obj\Debug\HotkeyLib.csprojResolveAssemblyReference.cache
+F:\_Source\_c#\Hotkeys\HotkeyLib\obj\Debug\HotkeyLib.dll
+F:\_Source\_c#\Hotkeys\HotkeyLib\obj\Debug\HotkeyLib.pdb

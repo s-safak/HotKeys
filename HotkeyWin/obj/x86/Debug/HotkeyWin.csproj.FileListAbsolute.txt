@@ -1,0 +1,11 @@
+F:\_Source\_c#\Hotkeys\HotkeyWin\bin\Debug\HotkeyWin.exe
+F:\_Source\_c#\Hotkeys\HotkeyWin\bin\Debug\HotkeyWin.pdb
+F:\_Source\_c#\Hotkeys\HotkeyWin\bin\Debug\HotkeyLib.dll
+F:\_Source\_c#\Hotkeys\HotkeyWin\bin\Debug\HotkeyLib.pdb
+F:\_Source\_c#\Hotkeys\HotkeyWin\obj\x86\Debug\HotkeyWin.csprojResolveAssemblyReference.cache
+F:\_Source\_c#\Hotkeys\HotkeyWin\obj\x86\Debug\HotkeyWin.Form1.resources
+F:\_Source\_c#\Hotkeys\HotkeyWin\obj\x86\Debug\HotkeyWin.Properties.Resources.resources
+F:\_Source\_c#\Hotkeys\HotkeyWin\obj\x86\Debug\HotkeyWin.csproj.GenerateResource.Cache
+F:\_Source\_c#\Hotkeys\HotkeyWin\obj\x86\Debug\HotkeyWin.exe
+F:\_Source\_c#\Hotkeys\HotkeyWin\obj\x86\Debug\HotkeyWin.pdb
+F:\_Source\_c#\Hotkeys\HotkeyWin\bin\Debug\HotkeyWin.exe.config
